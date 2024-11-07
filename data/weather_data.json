@@ -1,0 +1,16 @@
+{
+    "cities": {
+        "London": {
+            "temperature": 18,
+            "conditions": "Cloudy"
+        },
+        "New York": {
+            "temperature": 22,
+            "conditions": "Sunny"
+        },
+        "Tokyo": {
+            "temperature": 25,
+            "conditions": "Rainy"
+        }
+    }
+}
